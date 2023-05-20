@@ -1,0 +1,5 @@
+These are some random notes for my exercise.
+1. Remember to commit frequently.
+2. Don't forget to push changes to remote repository.
+3. Keep track of any ignored files using .gitignore.
+4. Review the Git documentation for more advanced commands.
